@@ -4,7 +4,7 @@
 
 .DESCRIPTION
     Author: HASAN ALTIN
-    Version: v1
+    Website: hasanaltin.com
     This script performs three main functions:
     1. Clears .tok files inside the "C:\Program Files\NVIDIA Corporation\vGPU Licensing\ClientConfigToken" folder
        on each computer with names starting with "VDI" and copies .tok files from a local "C:\IT" folder to this location.
